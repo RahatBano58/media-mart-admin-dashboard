@@ -55,7 +55,7 @@ export default function LoginPage() {
 
           <button
             type="submit"
-            className="w-full p-4 rounded-xl bg-black border border-[#00ff66] text-[#00ff66] font-medium tracking-wide hover:bg-[#00ff66]/10 transition-colors"
+            className="w-full p-4 rounded-xl bg-[#00ff66] border border-black text-black font-bold font-serif tracking-wide hover:bg-[#00ff66] transition-colors"
           >
             INITIATE LOGIN SEQUENCE
           </button>
