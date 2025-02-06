@@ -27,7 +27,7 @@ export default function LoginPage() {
 
   return (
     <div className="min-h-screen flex items-center justify-center bg-[#1a1d24]">
-      <div className="w-[400px] flex flex-col items-center space-y-6">
+      <div className="w-[400px] flex flex-col items-center space-y-2 border-[#00ff66] border-2 p-8 rounded-lg">
         <Shield className="w-12 h-12 text-white mb-2" />
 
         <h1 className="text-xl text-white font-medium tracking-wide">SECURE ACCESS TERMINAL</h1>
